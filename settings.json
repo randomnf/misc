@@ -1,0 +1,24 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "breadcrumbs.enabled": true,
+    "editor.wordWrap": "on",
+    "editor.detectIndentation": false,
+    "workbench.enableExperiments": false,
+    "workbench.editor.closeEmptyGroups": false,
+    "editor.minimap.enabled": false,
+
+    "explorer.confirmDelete": false,
+    "workbench.startupEditor": "newUntitledFile",
+
+    "emmet.includeLanguages": {
+        "html": ["css", "html"]
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "explorer.openEditors.visible": 0,
+    "explorer.confirmDragAndDrop": false,
+    "window.zoomLevel": 0,
+    "git.confirmSync": false,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+}

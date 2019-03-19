@@ -1,0 +1,17 @@
+// Place your key bindings in this file to overwrite the defaultsauto[]
+[
+    {
+        "key": "ctrl+space",
+        "command": "editor.emmet.action.wrapWithAbbreviation"
+    },
+
+    {
+        "key": "ctrl+shift+\\",
+        "command": "editor.emmet.action.matchTag"
+    },
+    {
+        "key": "ctrl+b",
+        "command": "HookyQR.beautify",
+        "when": "editorFocus"
+    }
+]
