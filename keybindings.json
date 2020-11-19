@@ -13,5 +13,14 @@
         "key": "ctrl+b",
         "command": "HookyQR.beautify",
         "when": "editorFocus"
+    },
+    {
+        "key": "ctrl+shift+space",
+        "command": "-editor.action.triggerParameterHints",
+        "when": "editorHasSignatureHelpProvider && editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+space",
+        "command": "editor.emmet.action.wrapIndividualLinesWithAbbreviation"
     }
 ]
